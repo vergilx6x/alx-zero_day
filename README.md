@@ -1,1 +1,2 @@
-My first readme
+-This project is about taking advantage of GitHub utilities.
+-This project is useful because GitHub can facilitate social coding by providing a hosting service and web interface for the Git code repository, as well as management tools for collaboration.
